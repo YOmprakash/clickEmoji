@@ -1,0 +1,12 @@
+/* Write your code here. */
+
+.win-or-lose-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 80%;
+  border: 3px solid #ffffff30;
+  background-color: #ffffff33;
+  margin: auto;
+  padding: 16px;
+}
